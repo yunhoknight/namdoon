@@ -1,0 +1,12 @@
+frontend/node_modules/ 
+frontend/dist/ 
+backend/.gradle/ 
+backend/build/ 
+ai/venv/ 
+ai/__pycache__/ 
+*.env 
+.DS_Store 
+ai/venv/ 
+ai/.venv/ 
+ai/__pycache__/ 
+*.env 
